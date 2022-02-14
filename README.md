@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Telisco664
+- 👋 Hi, I’m Tesloach Kong Gilo
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning  python,C++,PhP and other
 - 💞️ I’m looking to collaborate on  solving real life problems 
